@@ -1,3 +1,8 @@
+---
+title: About Me
+author: dave
+---
+
 # whoami
 ![[tumblr_55e2d94813dfe5092c1896ebf12299ab_11322c73_500.jpg]]
 
