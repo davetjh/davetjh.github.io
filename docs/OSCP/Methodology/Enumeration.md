@@ -45,6 +45,7 @@ whatweb http://<ip-addr>:<port>
 On a webpage, right click to view the source code of the page
 
 ![[Pasted image 20240819165501.png]]
+
 Look for relevant interesting info, eg software used, version, etc
 # SMB enumeration
 Upon seeing port 445 or any SMB port, try connecting using `smbclient`
