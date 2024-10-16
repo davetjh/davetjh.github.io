@@ -1,0 +1,1 @@
+https://medium.com/@redefiningreality/your-bs-less-guide-to-acing-oscp-4eccaf497410
