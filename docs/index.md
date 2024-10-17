@@ -10,5 +10,5 @@ As a dedicated cybersecurity professional, I am passionate about safeguarding di
 
 ## Socials
 
-[LinkedIn](www.linkedin.com/tanjunhong)
-[Github](www.github.com/davetjh) 
+:simple-linkedin: [LinkedIn](www.linkedin.com/tanjunhong)<br>
+:simple-github: [Github](www.github.com/davetjh) 
