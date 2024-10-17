@@ -21,7 +21,7 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-
+    logo: :octicons-terminal-16:
 # Extensions
 markdown_extensions:
   - footnotes
